@@ -1,2 +1,2 @@
 # joshi-yogesh
-I am Student
+i am php and laravel framwork devloper
